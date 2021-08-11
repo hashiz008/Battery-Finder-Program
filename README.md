@@ -1,2 +1,3 @@
 # Battery-Finder-Program
-RecursionのProject2の最終課題です。
+RecursionのProject2-2の最終課題です。
+#useage
