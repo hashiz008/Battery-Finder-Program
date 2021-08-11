@@ -1,3 +1,4 @@
 # Battery-Finder-Program
 RecursionのProject2-2の最終課題です。
-#useage
+## URL
+https://hashiz008.github.io/Battery-Finder-Program/
