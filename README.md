@@ -15,5 +15,11 @@
 ## Reference
 **<a href='https://battery-finder-program-mauve.vercel.app/'>Batterty Finder Programへようこそ</a>**
 
+## Requirement
+ * HTML
+ * CSS
+ * JavaScript
+ * Bootstrap
+
 ## Author
 **<a href="https://github.com/hashiz008">hashiz008</a>**
